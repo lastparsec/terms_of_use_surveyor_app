@@ -8,7 +8,6 @@
 
 <body>
   <img src="https://lh3.googleusercontent.com/sOCHrdbLx9AjbqBOVUXAvkHVzZTB0FuVEHeFn-nvHXUQjWU2lTLs9uWyK1cdGTKLhEc=s360-rw" width=150" alt="">
-    
   <small>
     <p>
     <pre>
@@ -17,7 +16,6 @@ Copyright One Hundred Feet,Inc.
       </pre>
     </p>
   </small>
-  
   <h3>NOTICE: YOUR USE OF AND ACCESS TO OUR PLATFORM AND PERFORMANCE OF MAPPING SERVICES (BOTH DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS. PLEASE READ THESE TERMS CAREFULLY, AS THEY INCLUDE INFORMATION ABOUT FUTURE CHANGES TO THESE TERMS,
     LIMITATIONS OF LIABILITY, A CLASS ACTION WAIVER, AND AN AGREEMENT TO RESOLVE DISPUTES BY ARBITRATION INSTEAD OF BY A COURT PROCEEDING. IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING TERMS, YOU MAY NOT USE OR ACCESS THE PLATFORM OR PERFORM MAPPING
     SERVICES IN ANY MANNER.</h3>
@@ -30,7 +28,7 @@ Copyright One Hundred Feet,Inc.
   <p>Welcome to One Hundred Feet. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (collectively, the “Platform”). If you have any questions, comments, or concerns
     regarding these terms, the Platform or the Mapping Services (as defined below), please contact us at: </p>
   <ul>
-    <li> <a href="<mail>support@beans.ai</mail>">support@beans.ai</a></li>
+    <li> <a href="mailto:support@beans.ai">support@beans.ai</a></li>
     <li>(650) 353-5014</li>
     <li>248 Homer Ave Palo Alto, CA 94301</li>
   </ul>
@@ -66,8 +64,7 @@ Copyright One Hundred Feet,Inc.
   <p>One Hundred Feet takes the privacy of its users very seriously. For the current One Hundred Feet Privacy Policy, please click here.
     The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly
     collect or solicit personally identifiable information from children under 13; if you are a child under 13, please do not attempt to register for the Platform or send any personal information about yourself to us. If we learn we have collected
-    personal information from a child under 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at <a
-      href="<mail>support@beans.ai</mail>">support@beans.ai</a>.
+    personal information from a child under 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at <a href="mailto:support@beans.ai">support@beans.ai</a>.
   </p>
   <h3><u>
       What are the basics of using One Hundred Feet?</u></h3>
@@ -192,7 +189,7 @@ Copyright One Hundred Feet,Inc.
 
   <h3><u>
       What if I want to stop using the Platform and no longer perform Mapping Services? </u></h3>
-  <p>You are free to do so at any time, by contacting us at <a href="<mail>support@beans.ai</mail>">support@beans.ai</a>. Please refer to our <a href="https://www.beans.ai/help/driver/v2.0/privacy">Privacy Policy</a>, as well as the licenses above,
+  <p>You are free to do so at any time, by contacting us at <a href="mailto:support@beans.ai">support@beans.ai</a>. Please refer to our <a href="https://www.beans.ai/help/driver/v2.0/privacy">Privacy Policy</a>, as well as the licenses above,
     to understand how we treat information you provide to us after you have stopped using the Platform and no
     longer perform Mapping Services.
     One Hundred Feet is also free to terminate (or suspend access to) your use of the Platform, performance of Mapping Services and/or your account, for any reason in our discretion, including your breach of these Terms. One Hundred Feet has the sole
@@ -201,7 +198,7 @@ Copyright One Hundred Feet,Inc.
   <p>Account termination may result in destruction of any Content associated with your account, so keep that in mind before you decide to terminate your account. We will try to provide advance notice to you prior to our terminating your account so
     that you are able to retrieve any important User Submissions you may have stored in your account (to the extent allowed by law and these Terms), but we may not do so if we determine it would be impractical, illegal, not in the interest of
     someone’s safety or security, or otherwise harmful to the rights or property of One Hundred Feet.
-    If you have deleted your account by mistake, contact us immediately at <a href="<mail>support@beans.ai</mail>">support@beans.ai</a> – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
+    If you have deleted your account by mistake, contact us immediately at <a href="mailto:support@beans.ai">support@beans.ai</a> – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
   </p>
   <p>Provisions that, by their nature, should survive termination of these Terms shall survive termination. By way of example, all of the following will survive termination: any obligation you have to pay us or indemnify us, any limitations on our
     liability, any terms regarding ownership or intellectual property rights, and terms regarding disputes between us.</p>
