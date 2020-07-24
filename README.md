@@ -30,7 +30,7 @@ Copyright One Hundred Feet,Inc.
   <p>Welcome to One Hundred Feet. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (collectively, the “Platform”). If you have any questions, comments, or concerns
     regarding these terms, the Platform or the Mapping Services (as defined below), please contact us at: </p>
   <ul>
-    <li href="<mail>support@beans.ai</mail>">support@beans.ai</li>
+    <li> <a href="<mail>support@beans.ai</mail>">support@beans.ai</a></li>
     <li>(650) 353-5014</li>
     <li>248 Homer Ave Palo Alto, CA 94301</li>
   </ul>
